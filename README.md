@@ -13,6 +13,6 @@ Reference :
 
 
 ### Final Screenshot : 
-[![Screenshot.jpg](https://github.com/DysonThomas/Music-Player-UI/blob/main/lib/Images/Jupitormazha.jpg)
+[![Screenshot.jpg](https://github.com/DysonThomas/Music-Player-UI/blob/main/lib/Images/Screenshot.jpg)
 
 
